@@ -77,10 +77,10 @@ So, piecing all of it together, we can see the stack would probably look somethi
 
 Doing the calculation: `0xb4 + 0x4 + 0x4 = 0xbc`
 Convert it to bytes through:
-`
+```
 python
 0xbc
-`
+```
 And it should return 188 bytes
 
 #### Dynamic
@@ -118,7 +118,7 @@ We can see that the arguments `0xdeadbeef` and `0xc0ded00d` are stored on the st
 To help you visualize:
 
 <!-- StackOverflow2WithArgs -->
-![Image of StackOverflow2WithArgs](Images/PicoCTF2019/StackOverflow2WithArgs.jpg)
+![Image of StackOverflow2WithArgs](../Images/PicoCTF2019/StackOverflow2WithArgs.jpg)
 
 * *"What is something?"*
 Truth is, I don't know, I'm just a beginner like you guys.
