@@ -65,8 +65,6 @@ When a function is called, first its parameters are thrown on the stack, then th
 
 ### Analysis
 
-#### Static
-
 #### GEF-GDB
 
 Fire up GDB for our executable (`gdb ./vuln`) and `info functions` to see all the different functions used.
@@ -112,8 +110,6 @@ Using Python on command line, we can see that `0x4c` translates to 76 bytes.
 And now we know how many bytes to feed it to reach the instruction pointer.
 From here we can do neat things.
 
-### Dynamic Analysis
-
 In this, we'll be making use of `cyclic`, a nice tool to help us count bytes easily.
 
 First, give it a normal run without GEF.
@@ -121,8 +117,6 @@ First, give it a normal run without GEF.
 1. It'll ask you for a string
 2. You input a string
 3. And it'll give another string output that apparently prints out the return address
-
-#### GEF-GDB
 
 Fire up the GDB again, and this time we're going to let it run through the debugger.
 Now, open up another terminal and run the command `cyclic 100`, this will give you a string of 100 bytes to feed to the program.
