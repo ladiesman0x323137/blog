@@ -1,4 +1,4 @@
-[Back](CTFFrontPage.md)
+[Back](WriteUpFrontPage.md) | [Home](CTFFrontPage.md)
 
 # PicoCTF 2019
 ---
@@ -12,6 +12,14 @@ I wanted to create an in-depth page on how beginners (like me) can understand an
 So, as I was saying, I'm leaving these for myself as a sort of notebook, and anyone who might want to take a stab at the binary exploit challenges but don't know where to get started. Check out the links below for the challenges!!!
 
 ---
+## Tools Used
+* Cutter Disassembler
+* GEF-GDB
+* Pwntools
+* `ropper`
+
+---
+## Challenges Questions
 
 [Overflow 1](overflow1writeup.md)
 
