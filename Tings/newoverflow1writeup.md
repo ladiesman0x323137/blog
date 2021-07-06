@@ -70,7 +70,7 @@ Find out the address of the `flag()` function however you want (e.g., `x flag`, 
 Note: if you try to run it without the gadget, the program will get stuck at the instruction below:
 
 <!-- NewOverflow1movaps -->
-![Image of movaps](../Images/PicoCTF2019/NewOverflow1movaps.JPG
+![Image of movaps](../Images/PicoCTF2019/NewOverflow1movaps.JPG)
 
 If you search the instruction up, it'll basically say that it's getting stuck because it's not aligned on a 16-byte boundary (not divisible by 16).
 Since we're working with hexadecimal addresses, this means that the address has to end in a 0.
