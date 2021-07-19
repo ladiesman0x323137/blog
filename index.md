@@ -1,4 +1,6 @@
-# hello-word! Coming soon...!
+# hello-world!
+Welcome!
 
-
-[Tings!!!](Tings/CTFFrontPage.md)
+---
+## Posts
+[Write-Ups](Tings/CTFFrontPage.md)
