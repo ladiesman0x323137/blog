@@ -1,10 +1,12 @@
+[Back](WriteUpFrontPage.md) | [Home](../index.md)
+
 # Write Ups
 ---
 
 ## Challenges
 
 ### Exploit-Education - Phoenix
-[Exploit-Education Phoenix](exploiteducationphoenixwriteup.md)
+[Exploit-Education Phoenix](exploiteducationwriteup.md)
 
 Exploit-Education provides people with some beginner level pwn challenges to help them get started with the basic knowledge to improve and move on to harder challenges!
 

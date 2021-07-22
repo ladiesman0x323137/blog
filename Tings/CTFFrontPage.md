@@ -1,7 +1,5 @@
+[Back](WriteUpFrontPage.md) | [Home](../index.md)
+
 # hello-world!!!
-
----
-
-## hello-world
 
 [Write Ups](WriteUpFrontPage.md)
