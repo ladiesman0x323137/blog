@@ -18,4 +18,5 @@ Some beginner-to-intermediate level challenges that focuses on mainly stack-rela
 ### Hackaday tutorials
 [Hackaday Tutorials](hackadaytutorialwriteups.md)
 
-Some beginner tutorial challenges that helps people to get started with reverse engineering. A great learning to tool.
+Some beginner tutorial challenges that helps people to get started with reverse engineering. A great learning to tool. Would
+highly recommend to those that want to get started.
