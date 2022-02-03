@@ -6,9 +6,10 @@
 
 ## 4N0NY31TY's First Crackme
 
-Author: 4N0NY31TY
-Difficulty: 1.4/5
-Platform: Unix/Linux etc.
+
+- Author: 4N0NY31TY
+- Difficulty: 1.4/5
+- Platform: Unix/Linux etc.
 
 ### Tools
 
