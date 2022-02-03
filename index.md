@@ -8,7 +8,7 @@ Welcome!
 
 ### Posts
 ---
-[Write Ups](WriteUpFrontPage.md)
+[Write Ups](Tings/WriteUpFrontPage.md)
 
 
 ### Resume
